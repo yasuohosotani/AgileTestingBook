@@ -9,7 +9,20 @@ Welcome to AgileTestingBook's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :numbered:
+
+   bigPicture/index
+   granularity/index
+   analysis/index
+   basicMethod/index
+   process/index
+   manualAndAuto/index
+   tdd/index
+   ci/index
+   gui/index
+   exploratory/index
+   maintainability/index
 
 
    
